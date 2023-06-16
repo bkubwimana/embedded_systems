@@ -3,4 +3,6 @@ Array is first sorted and then operated on.
 You can run the code as gcc -o stats.out stats.c
 then ./stats.out
 
+Benjamin Kubwimana, benyamin.kubwimana@gmail.com
+
 thank you. 
