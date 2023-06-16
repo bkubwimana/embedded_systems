@@ -104,7 +104,7 @@ void sort_array(unsigned char *arr, unsigned int length)
   {
     for (unsigned int j = 0; j < length - i - 1; j++)
     {
-      if (arr[j] > arr[j + 1])
+      if (arr[j] < arr[j + 1])
       {
         /* swapping */
         unsigned char temp = arr[j];

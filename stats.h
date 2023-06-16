@@ -92,10 +92,10 @@ unsigned char find_minimum(unsigned char *arr, unsigned int length);
 unsigned char find_maximum(unsigned char *arr, unsigned int length);
 
 /**
- * @brief Sorts an array in ascending order.
+ * @brief Sorts an array in descending order.
  *
  *input an array of unsigned char elements and its length,
- * and sorts the array in ascending order using the bubble sort algorithm.
+ * and sorts the array in descending order using the bubble sort algorithm.
  *
  * @param arr Pointer to the array of unsigned char elements
  * @param length Length of the array
